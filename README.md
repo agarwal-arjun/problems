@@ -1,5 +1,5 @@
 # problems
-This repository hostes the problems and the solution. So far, the problems are mostly limited to DS/Algo and come from leetcode platform. Feel free to add problem froms other platform to respective pacakges.
+This repository hostes the problems and the solution. So far, the problems are mostly limited to DS/Algo and come from leetcode platform. Feel free to add problem from other platform as well to respective pacakges.
 
 ## List of Leetcode problem solution added.
 
