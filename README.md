@@ -1,5 +1,6 @@
 # problems
-This repository hostes the problems and the solution. So far, the problems are mostly limited to DS/Algo.
+This repository hostes the problems and the solution. So far, the problems are mostly limited to DS/Algo and come from leetcode platform. Feel free to add problem froms other platform to respective pacakges.
+
 ## List of Leetcode problem solution added.
 
   1. Bit Wise Complement - https://leetcode.com/problems/number-complement/
