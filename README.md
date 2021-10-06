@@ -8,3 +8,5 @@ This repository hostes the problems and the solution. So far, the problems are m
   3. WaterInContainer - https://leetcode.com/problems/trapping-rain-water/
   4. ThreeSum - https://leetcode.com/problems/3sum
   5. NextPermutation - https://leetcode.com/problems/next-permutation/
+  6. Longest Palindromic Substring [https://leetcode.com/problems/longest-palindromic-substring/]
+  7. ZigZag Conversion [https://leetcode.com/problems/zigzag-conversion]
