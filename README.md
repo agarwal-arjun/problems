@@ -3,7 +3,7 @@ This repository hostes the problems and the solution. So far, the problems are m
 
 ## List of Leetcode problem solution added.
   1. Bit Wise Completment - [url to actual problem ?]
-  2. Pow(x, n) - [https://leetcode.com/problems/powx-n/]
+  2. Power - [https://leetcode.com/problems/powx-n/]
   3. Bit Wise Complement - https://leetcode.com/problems/number-complement/
   4. Letter Combinations - https://leetcode.com/problems/letter-combinations-of-a-phone-number/
   5. WaterInContainer - https://leetcode.com/problems/trapping-rain-water/
