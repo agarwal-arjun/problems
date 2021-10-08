@@ -12,3 +12,4 @@ This repository hostes the problems and the solution. So far, the problems are m
   8. Longest Palindromic - Substring [https://leetcode.com/problems/longest-palindromic-substring/]
   9. ZigZag Conversion - [https://leetcode.com/problems/zigzag-conversion]
   10. Dice roll to Target - [https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/]
+  11. K-th Smallest Prime Fraction - https://leetcode.com/problems/k-th-smallest-prime-fraction/
